@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+}
+input{
+    width:500px ;
+    font-size: 25px;
+    margin: 30px auto;
+    display: block;
+}
+button{
+    width:100px;
+    height:40px;
+    margin: 20px auto;
+    display: block;
+}
+img{
+    width:200px ;
+    height:300px;
+    margin: 5px;
+
+}
+h2{
+    text-align: center;
+}
+
+figure{
+    border: 2px solid black;
+}
+#list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
